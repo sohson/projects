@@ -17,28 +17,28 @@
 ## 🚀 Projects
 
 ### 📈 [KOSPI200 지수 편출입 예측 서비스]
-- **Description**: 머신러닝 기반 KOSPI200 지수 편입/편출 종목 예측 및 투자 시그널 생성 서비스
-- **Tools**: Python, Scikit-learn, Pandas, FinanceDataReader, DART Open API
+- **Description**: KRX·DART·ECOS 등 다중 소스 자동 수집 파이프라인을 구축하고, LightGBM 단일 모델로 KOSPI200 정기 변경 편입·편출 후보 종목을 사전 예측하는 Streamlit 웹 대시보
+- **Tools**: Python, LightGBM, XGBoost, Scikit-learn, Streamlit, MySQL, SHAP, KRX/DART/ECOS API
 - **Link**: [fa08-2nd-Numbers1](https://github.com/sohson/fa08-2nd-Numbers1)
 
 ### 🤖 [착오송금 반환 AI 에이전트]
-- **Description**: 착오송금 발생 시 반환 절차를 자동화하는 AI 에이전트 서비스 기획 및 구현
-- **Tools**: Python, LLM, Agent Framework
+- **Description**: 복잡한 착오송금 반환 절차를 AI로 자동화하는 원스톱 모바일 서비스 기획 및 설계. OCR로 이체확인증을 인식하고, RAG 기반 법률 QA와 ML 비용·기간 예측, Gen-AI 서류 자동 생성을 통합한 클라우드(AWS) 기반 시스템 설계. 소희 역할: 모바일 앱 UI 구현 (Figma), 결과 및 향후 과제 정리
+- **Tools**: Python, Figma (>> 구현 단계에서 요구되는 tools: TypeScript, React Native, ChatGPT API, LangChain, RAG, OCR (Amazon Textract), AWS (EKS·Lambda·Aurora·OpenSearch)
 - **Link**: [fa08-1st-MINCHO](https://github.com/sohson/fa08-1st-MINCHO)
 
 ### 🛒 [Walmart 데이터 분석 및 전략 보고서]
-- **Description**: Walmart 매출 데이터 분석을 통한 비즈니스 인사이트 도출 및 전략 제언
-- **Tools**: Python, Pandas, Seaborn, Matplotlib
+- **Description** : 월마트 블랙프라이데이 거래 데이터(55만 건)의 파레토 분석, 고가 전략 검증 및 장바구니 분석을 통한 번들링 전략 수립
+- **Tools**: Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Link**: [walmart_proj](https://github.com/sohson/hipython/tree/main/walmart_proj)
 
 ### 💳 [UCI 신용카드 채무불이행 예측 (Streamlit)]
-- **Description**: UCI 신용카드 데이터셋을 활용한 채무불이행 예측 모델 개발 및 Streamlit 대시보드 구현. Plotly 게이지 차트 기반 4단계 리스크 분류 시스템 포함
-- **Tools**: Python, XGBoost, Scikit-learn, Streamlit, Plotly
+- **Description**: 신용카드 고객 30,000건 데이터로 채무불이행 예측 모델 개발. SMOTE·임계값 최적화 등 클래스 불균형 처리 기법 5개 모델 체계적 비교. Plotly 게이지 차트 기반 4단계 리스크 분류 Streamlit 앱 구현
+- **Tools**:Python, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Streamlit, Plotly, joblib
 - **Link**: [credit_default_app](https://github.com/sohson/hipython/tree/main/ml/credit_default_app)
 
 ### 🧠 [Deep Learning 프로젝트]
-- **Description**: Fashion MNIST CNN 분류기, IMDB 감성 분석 (SimpleRNN), 주가 데이터 시계열 예측 등 다양한 딥러닝 실습 프로젝트
-- **Tools**: Python, TensorFlow, Keras, NumPy, Matplotlib
+- **Description**: ① Fashion MNIST CNN 이미지 분류기 — DNN vs CNN 비교·BatchNorm/Dropout 실험 ② IMDB 감성 분석 — SimpleRNN v1~v8 실험, padding='pre' 적용으로 성능 향상
+- **Tools**: Python, TensorFlow, Keras 3, NumPy, Matplotlib (RTX 4060 Laptop GPU)
 - **Link**: [DL](https://github.com/sohson/hipython/tree/main/DL)
 
 ---
