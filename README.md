@@ -1,12 +1,14 @@
 # 📁 Sohee Son | Data & AI Portfolio
 > CPA-certified analyst bridging financial valuation expertise with data science and AI capabilities.
+> 경영학적 인사이트와 AI 기술력을 겸비한 전략가
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 학력: 경제학 전공
-- 📜 자격증: CPA (공인회계사) · SQLD · 재무빅데이터분석사 2급 · 컴활 1급
-- 🏢 삼정KPMG Future Academy 8기 수료 (Python · SQL/DBMS · ML/DL · AX 컨설팅)
+- 🎓 Education : 중앙대학교 경영학 학사 (졸업 예정)
+- 🗂️ Certification: 59th KICPA, 재무빅데이터분석사(FDA) 2급, SQLD, 컴퓨터활용능력 1급
+- 🏢 Professional: Deloitte 안진 FAS-Valuation 인턴 (4m)
+- 🧩 Activity: 삼정KPMG Future Academy 8기(Python · SQL/DBMS · ML/DL · AX 컨설팅)
 - 📌 Focus: Financial Analysis · Data-driven Decision Support · AI Business Application
 
 ---
