@@ -1,7 +1,7 @@
 # 📁 Sohee Son | Data & AI Portfolio
 > CPA-certified analyst bridging financial valuation expertise with data science and AI capabilities.
 > 
-> 경영학적 인사이트와 AI 기술력을 겸비한 전략가
+> 재무적 인사이트와 AI 기술력을 겸비한 전략가
 
 ---
 
