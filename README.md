@@ -18,6 +18,11 @@
 
 ## 🚀 Projects
 
+### 📊 [FINSIGHT — AI 기반 기업분석·밸류에이션 플랫폼]
+- **Description**: DART 공시·주가·뉴스 등 다중 소스를 수집·정제해 WACC 산출 후 DCF 밸류에이션, 멀티플 밸류에이션, AI 히스토리 브리핑·RAG 기반 사업보고서 챗봇을 한 화면에서 제공하는 KOSPI·KOSDAQ 약 2,600개 상장사 분석 플랫폼. 모든 수치는 "NO-MOCK" 원칙에 따라 실데이터·출처 기반으로만 표기
+- **Tools**: Next.js 16, React 19, TypeScript, FastAPI, Python 3.11, OpenAI gpt-5-mini, BGE-M3, ChromaDB, AWS RDS PostgreSQL, MongoDB Atlas, AWS S3/EC2, nginx
+- **Link**: [FINSIGHT](https://github.com/sohson/fa08-3rd-FILMN9) 
+
 ### 📈 [KOSPI200 지수 편출입 예측 서비스]
 - **Description**: KRX·DART·ECOS 등 다중 소스 자동 수집 파이프라인을 구축하고, LightGBM 단일 모델로 KOSPI200 정기 변경 편입·편출 후보 종목을 사전 예측하는 Streamlit 웹 대시보드
 - **Tools**: Python, LightGBM, XGBoost, Scikit-learn, Streamlit, MySQL, SHAP, KRX/DART/ECOS API
