@@ -38,7 +38,7 @@
 - **Tools**:Python, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Streamlit, Plotly, joblib
 - **Link**: [credit_default_app](https://github.com/sohson/hipython/tree/main/ml/credit_default_app)
 
-### 🧠 [Deep Learning 프로젝트]
+### 🧠 [Deep Learning]
 - **Description**: Fashion MNIST CNN 이미지 분류기 — DNN vs CNN 비교·BatchNorm/Dropout 실험 
 - **Tools**: Python, TensorFlow, Keras 3, NumPy, Matplotlib (RTX 4060 Laptop GPU)
 - **Link**: [DL](https://github.com/sohson/hipython/tree/main/DL)
