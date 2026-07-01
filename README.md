@@ -23,12 +23,12 @@
 - **Tools**: Next.js 16, React 19, TypeScript, FastAPI, Python 3.11, OpenAI gpt-5-mini, BGE-M3, ChromaDB, AWS RDS PostgreSQL, MongoDB Atlas, AWS S3/EC2, nginx
 - **Link**: [FINSIGHT](https://github.com/sohson/fa08-3rd-FILMN9) 
 
-### 📈 [KOSPI200 지수 편출입 예측 서비스]
+### 📈 [NEXT200 - KOSPI200 지수 편출입 예측 서비스]
 - **Description**: KRX·DART·ECOS 등 다중 소스 자동 수집 파이프라인을 구축하고, LightGBM 단일 모델로 KOSPI200 정기 변경 편입·편출 후보 종목을 사전 예측하는 Streamlit 웹 대시보드
 - **Tools**: Python, LightGBM, XGBoost, Scikit-learn, Streamlit, MySQL, SHAP, KRX/DART/ECOS API
-- **Link**: [fa08-2nd-Numbers1](https://github.com/sohson/fa08-2nd-Numbers1)
+- **Link**: [NEXT200](https://github.com/sohson/fa08-2nd-Numbers1)
 
-### 🤖 [착오송금 반환 AI 에이전트]
+### 🤖 [DON'워리 - 착오송금 반환 AI 에이전트]
 - **Description**: 복잡한 착오송금 반환 절차를 AI로 자동화하는 원스톱 모바일 서비스 기획 및 설계. OCR로 이체확인증을 인식하고, RAG 기반 법률 QA와 ML 비용·기간 예측, Gen-AI 서류 자동 생성을 통합한 클라우드(AWS) 기반 시스템 설계. 
 - **Tools**: Python, Figma (>> 구현 단계에서 요구되는 tools: TypeScript, React Native, ChatGPT API, LangChain, RAG, OCR (Amazon Textract), AWS (EKS·Lambda·Aurora·OpenSearch)
 - **Link**: [fa08-1st-MINCHO](https://github.com/sohson/fa08-1st-MINCHO)
