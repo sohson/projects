@@ -27,11 +27,13 @@
 - **Description**: KRX·DART·ECOS 등 다중 소스 자동 수집 파이프라인을 구축하고, LightGBM 단일 모델로 KOSPI200 정기 변경 편입·편출 후보 종목을 사전 예측하는 Streamlit 웹 대시보드
 - **Tools**: Python, LightGBM, XGBoost, Scikit-learn, Streamlit, MySQL, SHAP, KRX/DART/ECOS API
 - **Link**: [NEXT200](https://github.com/sohson/fa08-2nd-Numbers1)
+- - **Report**: [보고서](https://github.com/sohson/fa08-2nd-Numbers/blob/main/Next200_Numbers_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B5%9C%EC%A2%85.pdf)
 
 ### 🤖 [DON'워리 - 착오송금 반환 AI 에이전트]
 - **Description**: 복잡한 착오송금 반환 절차를 AI로 자동화하는 원스톱 모바일 서비스 기획 및 설계. OCR로 이체확인증을 인식하고, RAG 기반 법률 QA와 ML 비용·기간 예측, Gen-AI 서류 자동 생성을 통합한 클라우드(AWS) 기반 시스템 설계. 
 - **Tools**: Python, Figma (>> 구현 단계에서 요구되는 tools: TypeScript, React Native, ChatGPT API, LangChain, RAG, OCR (Amazon Textract), AWS (EKS·Lambda·Aurora·OpenSearch)
 - **Link**: [fa08-1st-MINCHO](https://github.com/sohson/fa08-1st-MINCHO)
+- **Report**: [보고서](https://github.com/sohson/fa08-1st-MINCHO/blob/main/DON%20'%20%EC%9B%8C%EB%A6%AC_%EB%AF%BC%EC%B4%88.pdf)
 
 ### 🛒 [Walmart 데이터 분석 및 전략 보고서]
 - **Description** : 월마트 블랙프라이데이 거래 데이터(55만 건)의 파레토 분석, 고가 전략 검증 및 장바구니 분석을 통한 번들링 전략 수립
