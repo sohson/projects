@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 - 🎓 Education : 중앙대학교 경영학 학사 (졸업 예정)
 - 🗂️ Certification
-  - 59th KICPA, AICE ASSOCIATE, 재무빅데이터분석사(FDA) 2급, SQLD, 컴퓨터활용능력 1급
+  - 59th KICPA, AICE(AI Certificate for Everyone) ASSOCIATE, 재무빅데이터분석사(FDA) 2급, SQLD, 컴퓨터활용능력 1급
   - TOEIC SPEAKING AL(Advanced Low)
 - 🏢 Professional: Deloitte 안진회계법인 FAS-Valuation 인턴 (4m),  EY 한영회계법인 파트타임 회계사 (1m)
 - 🧩 Activity: 삼정KPMG Future Academy 8기(Python · SQL/DBMS · ML/DL · AX 컨설팅)
