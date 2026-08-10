@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Education : 중앙대학교 경영학 학사 (졸업 예정)
+- 🎓 Education : 중앙대학교 경영학 학사
 - 🗂️ Certification
   - 59th KICPA, AICE ASSOCIATE, 재무빅데이터분석사(FDA) 2급, SQLD, 컴퓨터활용능력 1급
   - TOEIC SPEAKING AL
